@@ -1,0 +1,24 @@
+Active-Directory-Home-Lab
+│
+├── README.md
+├── 01-Environment-Setup
+│     └── VM-Setup.md
+│
+├── 02-Windows-Server-Install
+│     └── Server-Installation.md
+│
+├── 03-Active-Directory-Setup
+│     └── AD-Installation.md
+│
+├── 04-User-Management
+│     └── Create-Users.md
+│
+├── 05-HelpDesk-Labs
+│     ├── Password-Reset-Lab.md
+│     └── Account-Lockout-Lab.md
+│
+└── Screenshots
+      ├── server-install.png
+      ├── ad-install.png
+      ├── user-create.png
+      └── password-reset.png
