@@ -1,0 +1,8 @@
+├── README.md
+├── tickets
+│   ├── ticket-1-password-reset.md
+│   ├── ticket-2-account-lockout.md
+│   ├── ticket-3-outlook-not-opening.md
+│   ├── ticket-4-printer-offline.md
+│   ├── ticket-5-network-drive.md
+│   └── ticket-6-software-install.md
